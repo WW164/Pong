@@ -1,5 +1,8 @@
 # Pong
 
+![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Pong) ![GitHub](https://img.shields.io/github/license/WW164/Pong)
+
+
 ### Description
 Here is a clone of Pong game. Goal is to score against an opnonent. Whoever reach 10 wins the game. Players can move the paddle with WASD.
 
@@ -9,9 +12,5 @@ Here is a clone of Pong game. Goal is to score against an opnonent. Whoever reac
 I developed this program to learn more about Unity and game programming.
 
 ### Specifications for accessing the program
-In order to open this program, you need a 2019.4.14f1 or higher Unity installed on your device.
+In order to open this program, you need Unity 2019.4.14f1 or higher version installed on your device.
 
----
-![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Pong) ![GitHub](https://img.shields.io/github/license/WW164/Pong)
-
-Copyright (c) 2021 Parinaz Mirbagheri
